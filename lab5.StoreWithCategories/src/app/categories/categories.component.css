@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+}
+
+.categories{
+  border: 2px solid darkblue ;
+  padding: 10px;
+  margin:10px ;
+  color: #1976d2;
+}
+h2{
+  color: blue;
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 30px;
+}

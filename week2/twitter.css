@@ -1,0 +1,79 @@
+*body{
+    margin:0;
+    padding:0;
+    background-color: rgb(36, 22, 90);
+}
+
+.left{
+    float:left;
+    background-color: rgb(232, 234, 238);
+    margin:auto;
+    left:0px;
+    top:0px;
+
+
+}
+
+.right{
+    float: right;
+    left:500px;
+    margin-right: -150px;
+}
+h1{
+    display: block;
+  position: relative;
+    float: left;
+    margin-top: 0px; 
+    color: rgb(10, 10, 10);
+   margin-top: 200px;
+   margin-right: 200px;
+   margin-left: 10px;
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: black;
+}
+
+button.social{
+    margin-bottom: 20px;
+    width:350px;
+    height:40px;
+    border:2px solid rgb(29, 161, 242);
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    cursor: pointer;
+    transition: 0.2s ease;
+    display:grid;
+}
+
+.image{
+    position: relative;
+    top:120px;
+    right:550px;
+}
+
+.registration{
+    color:white;
+    background-color: rgb(29, 161, 242);
+    font-size: 16px;
+}
+.voity{
+    color:rgb(29, 161, 242);
+    background-color: rgb(249, 250, 253);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.foot{
+    display:inline-block;
+    margin-top:30px;
+    position:relative;
+    color:rgba(101, 119,134,1)
+}
+.foot2{
+    margin-top: 5px;
+    margin-left:500px;
+    color:rgba(101, 119,134,1)
+}
